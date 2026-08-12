@@ -21,3 +21,5 @@ This page is a quick reference for Wolf den families in Pack 7083 in Madison, Al
   height="600"
   style="border: 0;">
 </iframe>
+
+[Edit this site](https://github.com/jonathanhood/den-infosite/edit/main/index.md)
