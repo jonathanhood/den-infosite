@@ -17,7 +17,7 @@ This page is a quick reference for Wolf den families in Pack 7083 in Madison, Al
 
 - [Trail's End app for Android](https://play.google.com/store/apps/details?id=com.trailsend.scout)
 - [Trail's End app for iPhone and iPad](https://apps.apple.com/us/app/trails-end/id1421483087)
-- [Trail's End Scout and Parent Getting Started Guide](https://www.hoac-bsa.org/Data/Sites/1/media/finance-documents/popcorn/2026/parent-guide-2026.pdf)
+- [Trail's End Scout and Parent Training Resources](https://support.trails-end.com/en/articles/15695461-scout-parent-training-resources)
 
 ## Calendar
 
