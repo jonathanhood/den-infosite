@@ -12,12 +12,7 @@ This page is a quick reference for Wolf den families in Pack 7083 in Madison, Al
 - [Wolf adventure information on Scouting America](https://www.scouting.org/programs/cub-scouts/adventures/wolf/)
 - [Pack 7083 TroopWebHost site](https://www.troopwebhostcs.org/Pack7083Madison/Index.htm)
 - [Scout registration](https://my.scouting.org/online-registration/5fcbb943-b2aa-4ba5-9d02-01898f83be5c/applicant-type?zip=35758)
-
-## Trail's End Popcorn Fundraising
-
-- [Trail's End app for Android](https://play.google.com/store/apps/details?id=com.trailsend.scout)
-- [Trail's End app for iPhone and iPad](https://apps.apple.com/us/app/trails-end/id1421483087)
-- [Trail's End Scout and Parent Training Resources](https://support.trails-end.com/en/articles/15695461-scout-parent-training-resources)
+- Popcorn: Get the Trail's End App for [Android](https://play.google.com/store/apps/details?id=com.trailsend.scout) or [iOS](https://apps.apple.com/us/app/trails-end/id1421483087)
 
 ## Calendar
 
