@@ -11,6 +11,7 @@ This page is a quick reference for Wolf den families in Pack 83 in Madison, Alab
 
 - [Wolf Den Plan & Events (Fall 2026, Spring 2027)](https://docs.google.com/spreadsheets/d/1XoGkIOvCt2Z7eXmspC0RwLnGZAfMQpHCxgc7Ge4wdHw/edit?usp=sharing)
 - [Register with Scouting America](https://my.scouting.org/online-registration/5fcbb943-b2aa-4ba5-9d02-01898f83be5c/applicant-type?zip=35758)
+- [Military Family Fee Waiver](https://1bsa.org/military-family-fee-waiver/)
 - [Pack 83 Information](https://www.troopwebhostcs.org/Pack7083Madison/Index.htm)
 - [Wolf adventure information on Scouting America](https://www.scouting.org/programs/cub-scouts/adventures/wolf/)
 
