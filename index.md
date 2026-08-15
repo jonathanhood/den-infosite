@@ -39,7 +39,7 @@ This page is a quick reference for Wolf den families in Pack 83 in Madison, Alab
 <script>
 const anchors = document.querySelectorAll('a');
 anchors.forEach((a) => {
-  a.setAttribute('target', '__blank');
+  a.setAttribute('target', '_blank');
   a.setAttribute('rel', 'noopener noreferrer');
 });
 </script>
