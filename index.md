@@ -35,3 +35,11 @@ This page is a quick reference for Wolf den families in Pack 83 in Madison, Alab
 </iframe>
 
 [Edit this site](https://github.com/jonathanhood/den-infosite/edit/main/index.md)
+
+<script>
+const anchors = document.querySelectorAll('a');
+anchors.forEach((a) => {
+  a.setAttribute('target', '__blank');
+  a.setAttribute('rel', 'noopener noreferrer');
+});
+</script>
